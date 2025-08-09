@@ -5,6 +5,6 @@ OUTPUT:
               <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d8fbd255-f16f-4aae-a18b-fae2f88d7c35" />                                                                                                                                                                                                     Responsive web:    
               <img width="500" height="900" alt="image" src="https://github.com/user-attachments/assets/612fe12e-3f8b-4007-8e5c-8e58f409baa2" />
 
-       View In Google Maps link :               
-             <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3c277175-ce89-4ef8-b5a3-d480519c790f" />
+       View In Google Maps link:
+       <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3c277175-ce89-4ef8-b5a3-d480519c790f" />
 
